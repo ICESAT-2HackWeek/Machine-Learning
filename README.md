@@ -3,6 +3,7 @@
 Instructors:
 Yara Mohajerani ([ymohajer@uci.edu](mailto:ymohajer@uci.edu)), Shane Grigsby ([shane.grigsby@colorado.edu ](mailto:shane.grigsby@colorado.edu))
 
+A recorded version of this tutorial can be found [here](https://youtu.be/GQ2RSOSOmdU).
 
 Instructions for running this tutorial
 ```
